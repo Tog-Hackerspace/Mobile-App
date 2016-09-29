@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "declaration": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "lib": [
+      "dom",
+      "es2015"
+    ],
+    "module": "es2015",
+    "moduleResolution": "node",
+    "target": "es5",
+    "outDir": "/Users/seannicholls/Desktop/Mobile-App/.tmp"
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "compileOnSave": false,
+  "atom": {
+    "rewriteTsconfig": false
+  },
+  "include": [
+    "/Users/seannicholls/Desktop/Mobile-App/src/app/main.dev.ts",
+    "/Users/seannicholls/Desktop/Mobile-App/src/**/*.d.ts"
+  ]
+}
